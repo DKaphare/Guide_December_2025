@@ -6,6 +6,7 @@ public class SampleProj {
 		// TODO Auto-generated method stub
 		System.out.println("1st push");
 		System.out.println("2nd push");
+		System.out.println("3rd push");
 	}
 
 }
